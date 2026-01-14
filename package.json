@@ -3,6 +3,7 @@
   "displayName": "GitFileDiff",
   "description": "Allow to perform diff from the current file and the same file from another branch",
   "version": "0.0.1",
+  "repository": "https://github.com/MalumaDev/GitFileDiff.git",
   "engines": {
     "vscode": "^1.108.0"
   },
