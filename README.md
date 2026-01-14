@@ -1,8 +1,5 @@
 # GitFileDiff Extension
 
-
-## Features
-
 Allow to compare the current file and the same file from another branch!
 
 <!-- 
