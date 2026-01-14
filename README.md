@@ -1,4 +1,4 @@
-# gitfilediff README
+# GitFileDiff Extension
 
 
 ## Features
